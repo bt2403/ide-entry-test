@@ -1,0 +1,2 @@
+‘.env’ dan ‘config’ mempunyai kegunaan yang sama, yaitu menjadi tempat untuk mengatur berbagai macam setelan.
+‘.env’ merupakan 1 file yang mencangkup semua yang ada di folder ‘config’. 

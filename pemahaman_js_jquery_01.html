@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <p id="demo"></p>
+<script>
+  var names = ["Andi", {"Name": "Gunawan", "Address": "Jl. Kemerdekaan 01"}, "Budi"];
+  names[1].Address = "Jalam Protokol Blok A No 1";
+
+  document.getElementById("demo").innerHTML = "Nama:" + names[1].Name + ", Alamat:" + names[1].Address;
+
+</script>
+</body>
+</html>

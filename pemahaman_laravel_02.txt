@@ -1,0 +1,2 @@
+di file '.env', dimana semua config yang berhubungan dengan database, di copy-paste dan ditambahkan '_SECOND', 
+dan tentunya nama database kedua disesuaikan
