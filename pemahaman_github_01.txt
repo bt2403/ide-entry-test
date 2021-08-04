@@ -1,0 +1,5 @@
+1. i.  Di menu utama repository, ada tombol hijau bertulisan kode. Dengan menekan tombol itu, ada opsi untuk clone repository menggunakan HTTPS, SSH, ataupun GitHub CLI.
+       Lalu buka Git Bash, ganti directory ke directory tujuan, ketik 'git clone'dan paste URL yang telah di copy dan tekan enter.
+   ii. -Di sebelah tombol hijau untuk clone code, terdapat tombol untuk menambahkan file ke repository, bisa dengan membuat file langsung, ataupun menguploadnya dari device.
+       -Jika repository baru dibuat, dibawah URL untuk mengclone resopitory, terdapat pilihan membuat file baru atau mengupload file dari device. Jika memilih upload dari
+	device, dapat juga dilakukan drag & drop file langsung ke GitHub. Bisa mengupload lebih dari 1 file sekaligus.

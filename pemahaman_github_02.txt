@@ -1,0 +1,6 @@
+2. Pada menu utama repository, di bagian kiri layar terdapat display branch apa yang sedang dilihat. Jika diklik, akan muncul opsi untuk melihat branch lain, atau membuat
+   branch sendiri dengan cara mengetik nama branch baru. 
+   Lalu, branch barru ini bisa digunakan untuk sesuatu yang namanya pull request, dimana anggota tim merequest untuk merubah/mengimprove dengan cara mengcompare branch
+   satu dengan yang lain. Hal ini bisa dilakukan dengan cara mengklik pull request dibawah nama repository kita untuk memunculkan menu baru. Di menu ini terdapat tombol
+   hijau bertulisan 'new pull request. Jika diklik, akan muncul menu dimana anggota tim bisa membandingkan 2 branch berbeda untuk memungkinkan adanya gabungan/perubahan 
+   pada koding.
